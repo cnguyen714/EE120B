@@ -23,6 +23,7 @@ There are 8 weapons with varying effects with a  unique designating letter: pist
 
 ## Controls
 Buttons are given in order of priority, pressing any higher order button will inhibit any other buttons pressed; both players follow the same control scheme on different keypads; on the board is a reset button
+
 |   |                                                                                                                             |
 |---|-----------------------------------------------------------------------------------------------------------------------------|
 | 7 | Fire currently equipped weapon and depletes ammo count with that weapon, continues previous movement vector                 |
